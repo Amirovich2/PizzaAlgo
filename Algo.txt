@@ -2,3 +2,5 @@ step 1: choose pizza place
 step 2: choose your pizza
 step 3: order and enjoy (:
 step 4: come back!
+step 5: return order if its wrong
+step 6: get refund or replacemnt
