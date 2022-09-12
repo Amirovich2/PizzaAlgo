@@ -1,6 +1,4 @@
 step 1: choose pizza place
 step 2: choose your pizza
-step 3: order and enjoy :)
-this is for the amir branch
-testing commit
-one more time
+step 3: order and enjoy (:
+step 4: come back!
